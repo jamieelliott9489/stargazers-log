@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "github/docs",
+    "description": "The open-source documentation site for GitHub.",
+    "language": "JavaScript",
+    "stars": 16000,
+    "starredAt": "2026-09-14",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 175000,
+    "starredAt": "2026-09-08",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repository": "denoland/deno",
+    "description": "A secure runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "stars": 98000,
+    "starredAt": "2026-08-29",
+    "url": "https://github.com/denoland/deno"
+  }
+]
